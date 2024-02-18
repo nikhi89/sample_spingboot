@@ -15,7 +15,7 @@
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>17</java.version>
+		
 		<sonar.host.url>http://3.110.177.162:9000/</sonar.host.url> 
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin1</sonar.password>
