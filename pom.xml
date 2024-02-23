@@ -19,6 +19,8 @@
 
 	<properties>
 		<jdk.version>11</jdk.version>
+		<maven.compiler.source>11</maven.compiler.source>
+    		<maven.compiler.target>11</maven.compiler.target>
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.13.1</junit.version>
 		<log4j.version>1.2.17</log4j.version>
