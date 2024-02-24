@@ -97,19 +97,19 @@
     <distributionManagement>
         <repository>
             <id>nexus</id>
-            <name>Landmark Technologies Releases Nexus Repository</name>
-            <url>http://3.111.36.144:8081/repository/tesla-releases/</url>
+            <name>maven-central-repository1</name>
+            <url>http://3.111.36.144:8081/repository/maven-central-repository1/</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
-            <name>Landmark Technologies Snapshot Nexus Repository</name>
-            <url>http://3.111.36.144:8081/repository/tesla-snapshots/</url>
+            <name>maven-snapshots</name>
+            <url>http://3.111.36.144:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
     <build>
-        <finalName>tesla</finalName>
+        <finalName>maven-web-app-final</finalName>
         <plugins>
             <!-- Surefire Plugin -->
             <plugin>
