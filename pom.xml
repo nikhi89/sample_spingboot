@@ -105,7 +105,6 @@
     </distributionManagement>
 
     <build>
-        <finalName>maven-web-app-final</finalName>
         <plugins>
             <!-- Surefire Plugin -->
             <plugin>
