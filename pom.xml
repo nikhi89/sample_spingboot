@@ -95,11 +95,7 @@
     </dependencies>
 
     <distributionManagement>
-        <repository>
-            <id>nexus-releases</id>
-            <name>maven-central-repository1</name>
-            <url>http://13.232.137.135:8081/repository/maven-central-repository1/</url>
-        </repository>
+
 
         <snapshotRepository>
             <id>nexus-snapshots</id>
